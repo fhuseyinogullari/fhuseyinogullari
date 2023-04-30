@@ -35,9 +35,9 @@
 
 ### ⚙️ &nbsp; GitHub Analytics
 
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fhuseyinogullari&show_icons=true&theme=vue" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhuseyinogullari&layout=compact"/>
+<p align="center" dir="auto">
+    <img height="180em"  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=fhuseyinogullari&show_icons=true&theme=vue" />
+    <img height="180em"  style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhuseyinogullari&layout=compact"/>
 </p>
 <br/>
 
